@@ -40,3 +40,8 @@ Navigate to the homepage to see a list of available scholarships.
 Click on a specific scholarship to view details and apply.
 Fill out the application form and submit.
 View submitted applications in the "Submitted Applications" section.
+
+## Techologies used
+1. Html 
+2. Css
+3. Javascript
