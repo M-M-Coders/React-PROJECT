@@ -1,0 +1,26 @@
+
+/* Navbar.css */
+nav {
+    background-color:aqua;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+  }
+  
+  Link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  Link:hover {
+    color: #ffa500;
+  }
+  

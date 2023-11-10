@@ -1,0 +1,38 @@
+/* about.css */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #007bff;
+    margin-top: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    color: #28a745;
+  }
+  
+  em {
+    font-style: italic;
+  }
+  
+  /* Optional: Add more styles based on your design */
+  

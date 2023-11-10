@@ -1,0 +1,96 @@
+{
+  "scholarships": [
+    {
+      "id": 1,
+      "title": "Business Leadership Excellence Scholarship",
+      "description": "A scholarship for outstanding students pursuing degrees in business and demonstrating leadership qualities.",
+      "deadline": "2023-12-31",
+      "amount": 5000,
+      "eligibility": "Undergraduate students majoring in business with a strong leadership track record.",
+      "image": "https://www.lifecollege.org/uploads/3/6/1/5/3615705/header_images/1643197772.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Entrepreneurship Innovation Grant",
+      "description": "A scholarship for students with innovative business ideas and a passion for entrepreneurship.",
+      "deadline": "2023-11-30",
+      "amount": 7000,
+      "eligibility": "Undergraduate and graduate students pursuing studies in entrepreneurship.",
+      "image": "https://africaeurope-innovationpartnership.net/sites/default/files/styles/desktop/public/2021-02/Screenshot%202021-02-10%20at%2016.29.28.png?itok=EI06GEb_"
+    },
+    {
+      "id": 3,
+      "title": "Marketing Excellence Award",
+      "description": "A scholarship to recognize excellence in the field of marketing and business promotion.",
+      "deadline": "2023-12-15",
+      "amount": 6000,
+      "eligibility": "Undergraduate and graduate students majoring in marketing or related disciplines.",
+      "image": "https://evessio.s3.amazonaws.com/customer/ba67648a-5a8b-4d5c-9ae6-00cb5850f2f7/event/406b07a7-5ab6-471e-aab0-bc0faaf2e9bb/media/4241777d-node_IMAIA23-2048x960-1.1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Finance and Investment Merit Scholarship",
+      "description": "A scholarship for students excelling in finance and investment studies.",
+      "deadline": "2023-12-31",
+      "amount": 7500,
+      "eligibility": "Undergraduate and graduate students with a focus on finance and investment.",
+      "image": "https://ucarecdn.com/177fe5e7-2164-49b1-b02b-0561b068840e/-/format/auto/"
+    },
+    {
+      "id": 5,
+      "title": "International Business Leadership Grant",
+      "description": "A scholarship to support students pursuing international business studies and global leadership.",
+      "deadline": "2023-12-15",
+      "amount": 5500,
+      "eligibility": "Undergraduate and graduate students interested in international business leadership.",
+      "image": "https://greatyop.com/wp-content/uploads/2021/11/Top-50-Governments-Scholarships-international-Students.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Technology Management Scholarship",
+      "description": "A scholarship for students focusing on the intersection of business and technology management.",
+      "deadline": "2023-12-31",
+      "amount": 8000,
+      "eligibility": "Undergraduate and graduate students with a passion for technology management in business.",
+      "image": "https://english.spbstu.ru/upload/medialibrary/fbd/487_45.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Women in STEM Scholarship",
+      "description": "A scholarship to encourage and support women pursuing studies in Science, Technology, Engineering, and Mathematics (STEM).",
+      "deadline": "2023-11-15",
+      "amount": 6500,
+      "eligibility": "Undergraduate and graduate female students in STEM fields.",
+      "image": "https://www.stemforstudents.com/wp-content/uploads/2022/12/mese-stem-egitimi-1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Environmental Sustainability Grant",
+      "description": "A scholarship for students dedicated to promoting environmental sustainability and addressing climate change challenges.",
+      "deadline": "2023-11-30",
+      "amount": 6000,
+      "eligibility": "Undergraduate and graduate students with a focus on environmental studies and sustainability.",
+      "image": "https://www.officephoneshop.com/wp-content/uploads/2020/01/environmental-sustainability-policy.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Social Impact Leadership Award",
+      "description": "A scholarship recognizing students committed to creating positive social impact and leading community-oriented initiatives.",
+      "deadline": "2023-12-10",
+      "amount": 7000,
+      "eligibility": "Undergraduate and graduate students with a strong record of social engagement and community service.",
+      "image": "https://au-scholarships-production.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/06/Image-for-landing-page.png"
+    },
+    {
+      "id": 10,
+      "title": "Diversity and Inclusion Scholarship",
+      "description": "A scholarship for students actively contributing to diversity, equity, and inclusion in their academic and professional communities.",
+      "deadline": "2023-12-15",
+      "amount": 7500,
+      "eligibility": "Undergraduate and graduate students promoting diversity and inclusion initiatives.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz41SthNMBmwQuTN1AYl_ybPMTisetPABMLux9kbrxduHe1wP__Ia2a-wWJcb8YktCgcA&usqp=CAU"
+    }
+
+  ]
+
+}
